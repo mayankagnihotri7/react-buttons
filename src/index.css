@@ -1,0 +1,14 @@
+.large-btn {
+    font-size: 28px;
+    background-color: aqua;
+}
+
+.small-btn {
+    font-size: 16px;
+    background-color: blueviolet;
+}
+
+.btn {
+    border: none;
+    outline: none;
+}
